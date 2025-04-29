@@ -11,3 +11,6 @@
 - Algorithmes (tri rapide, radix, insertion…)
 - Manipulation de piles
 - Optimisation
+
+## Sujet du projet
+Vous pouvez consulter le sujet officiel ici : [📑 Sujet PDF](./push_swap.subject.pdf)
